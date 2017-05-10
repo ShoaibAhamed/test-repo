@@ -5,6 +5,8 @@ class Fish implements Speaker{
 
 
 			System.out.println(" We dont talk, just swim");
+			System.out.println(" We dont talk, just laugh");
+
 		}
 
 
