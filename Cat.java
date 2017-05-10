@@ -4,7 +4,7 @@ class Cat implements Speaker{
 		public void speak(){
 
 
-			System.out.println(" mew mew");
+			System.out.println(" mew mew mew");
 		}
 
 
